@@ -8,7 +8,6 @@
 
 The<b>purpose</b>ofhis project is to practise uploading files, writing project documentation, and managing changes using GitHub.
 
-![Description](image.png)
 
 
 
