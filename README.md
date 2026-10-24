@@ -2,13 +2,12 @@
 
 ## Description
 
-<i>This project contains a file uploaded to GitHub as part of my learning process. It demonstrates my understanding of creating a project repository, documenting files, and using Git and GitHub for version control.</i>
+<i>This project contains a file uploaded to GitHub as part of my learning process.This Python project calculates the total cost of a product based on its price and the quantity required. It also calculates and adds a 10% tax to display the final cost, including tax.</i>
 
 ## Purpose
 
-The<b>purpose</b>ofhis project is to practise uploading files, writing project documentation, and managing changes using GitHub.
+The<b>purpose</b>of this project is to practise uploading files, writing project documentation, and managing changes using GitHub.
 
-[linkedin](https://linkedin.com)
 
 
 
